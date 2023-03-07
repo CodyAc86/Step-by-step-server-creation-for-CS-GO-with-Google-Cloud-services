@@ -1,5 +1,5 @@
 # Step-by-step-server-creation-for-CS-GO-with-Google-Cloud-services
-ICT Project - here is a step-by-step documentation with screenshots on how to create and administrate a CS:GO server using Google Cloud Servers
+ICT Project - here is a step-by-step documentation with screenshots on how to create and administrate a CS:GO server using Google Cloud Servers.
 Also contains step-by-step guide on how to install metamod and sourcemod and setup config files in order to add admins to your server.
 Constains information on how to set tickrate to 128 both on server and game client.
 
